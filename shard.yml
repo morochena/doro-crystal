@@ -1,0 +1,19 @@
+
+name: doro
+version: 0.1.0
+
+authors:
+  - Marcus Orochena <marcus@orochena.net>
+
+license: WTFPL
+
+dependencies:
+  cli:
+    github: mosop/cli
+
+  spec2:
+    github: waterlink/spec2.cr
+    version: ~> 0.9
+
+  stdio:
+    github: mosop/stdio
